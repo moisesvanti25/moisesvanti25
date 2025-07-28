@@ -23,17 +23,11 @@ Explore as ferramentas e linguagens que domino:
 
 Dê uma olhada em alguns dos meus trabalhos mais recentes:
 
-### **1. [Nome do Projeto](https://github.com/moisesvanti25/repositorio)**
+### **1. [gerador de cartao]([https://github.com/moisesvanti25/repositorio](https://github.com/moisesvanti25/moisesvanti25.github.io))**
 
 📌 **Descrição**: Uma breve e impactante descrição sobre o que este projeto faz.
-🛠 **Tecnologias**: React, Node.js, MongoDB.
-🔗 **Link**: [Acesse o repositório aqui\!](https://github.com/moisesvanti25/repositorio)
-
-### **2. [Nome do Projeto](https://github.com/moisesvanti25/repositorio)**
-
-📌 **Descrição**: Outra breve descrição que destaque a funcionalidade e o valor deste projeto.
-🛠 **Tecnologias**: Vue.js, Python, Firebase.
-🔗 **Link**: [Explore o projeto\!](https://github.com/moisesvanti25/repositorio)
+🛠 **Tecnologias**: html.
+🔗 **Link**: [Acesse o repositório aqui\!]([https://github.com/moisesvanti25/repositorio](https://github.com/moisesvanti25/moisesvanti25.github.io))
 
 -----
 
@@ -58,15 +52,3 @@ Adoraria conectar com você\!
 -----
 
 🔹 *Última atualização: julho/2025*
-
------
-
-### **🎨 Personalização Extra para o seu Perfil (Sugestões\!)**
-
-Para deixar seu perfil ainda mais dinâmico e interessante, considere:
-
-  * **Adicionar GIFs ou Imagens:** Eles podem tornar seu perfil mais interativo e visualmente atraente.
-  * **Incluir Badges de Conquistas:** Se você possui certificações (ex.: Microsoft Learn, Google Certifications), exibi-las com badges agrega muito valor.
-  * **Utilizar [Shields.io](https://shields.io/)**: Crie badges personalizadas para destacar habilidades, ferramentas ou até mesmo o status de projetos.
-
-Espero que estas sugestões ajudem a aprimorar seu perfil\! 😊🚀
