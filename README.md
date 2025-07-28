@@ -27,7 +27,7 @@ Dê uma olhada em alguns dos meus trabalhos mais recentes:
 
 📌 **Descrição**: Uma breve e impactante descrição sobre o que este projeto faz.
 🛠 **Tecnologias**: html.
-🔗 **Link**: [Acesse o repositório aqui\!]([https://github.com/moisesvanti25/repositorio](https://github.com/moisesvanti25/moisesvanti25.github.io))
+🔗 **Link**: [Acesse o repositório aqui\!]([https://github.com/moisesvanti25/moisesvanti25.github.io](https://github.com/moisesvanti25/moisesvanti25.github.io))
 
 -----
 
